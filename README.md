@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *Bernardo Lopez*
+## 👏 Hi, I'm *Bernardo Lopez III*
 ##  About Me
 Changing my career from Forensic Autopsy/Surgical Recovery to Cybersecurity
 ## ⚒️ Skills
@@ -11,6 +11,11 @@ Changing my career from Forensic Autopsy/Surgical Recovery to Cybersecurity
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/CyGuy2028)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com) 
+
+LinkedIn QR
+
+<img width="300" height="320" alt="my_linkedin_qr_code" src="https://github.com/user-attachments/assets/a2f14631-f57f-4f3a-9714-f84a8546a372" />
+
 
 _"You miss 100% of the shots you don't take"_- Wayne Gretzky
